@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snake Multiplayer</string>
+    <string name="your_score">Deine Score: %1$d</string>
+</resources>
